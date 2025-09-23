@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <name>seif Ashraf</name>
+     <age>30</age>
+     <subject>physics</subject>
+     <subject>chimstry</subject>
+     <address>
+         <egypt>Giza</egypt>
+         <ksa>maka</ksa>
+     </address>
+     <phone></phone>
+ </root>
