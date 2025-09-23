@@ -1,0 +1,10 @@
+{
+    "name" : "seif Ashraf",
+    "age" : 30,
+    "subject" : ["physics", "chimstry"],
+    "address" : {
+        "egypt": "Giza",
+        "ksa" : "maka"
+    },
+    "phone" : null
+}
